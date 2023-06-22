@@ -2,7 +2,7 @@
 ## About :
 This project is on Codecademy. [Click Here to know More](https://www.codecademy.com/projects/practice/sql-codecademy-student-learners).
 ## Project Goals :
-Using the knowledge of SQL and analyze some mockup Codecademy learners data by using two tables given in the project.
+Using the knowledge of SQL and analyzing some mockup Codecademy learners data by using two tables given in the project.
 ## Prerequisites :
 - SQL Manipulations
 - SQL Queries
